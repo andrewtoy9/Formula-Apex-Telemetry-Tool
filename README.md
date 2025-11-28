@@ -70,21 +70,33 @@ Sometimes the OCR model may misread values. e.g. '0', '839'. You will be able to
 ---------------------------------EXAMPLE USAGE---------------------------------: 
 
 - video -> graph (most use cases):
+
 	Enter video fps: 60
+	
 	Enter video name (including file type!): Germany.mp4
+
 	Skip video conversion? ('frames_out folder already generated?)(y/n): n
+	
 	Skip OCR reading + data extraction? ([insert existing file name.txt]/n): n
 
 - image sequence -> graph (use if image sequence previously generated):
+
 	Enter video fps: 60
+	
 	Enter video name (including file type!): Germany.mp4
+	
 	Skip video conversion? ('frames_out folder already generated?)(y/n): y
+	
 	Skip OCR reading + data extraction? ([insert existing file name.txt]/n): n
 
 - .txt -> graph (use if data previously generated)
+
 	Enter video fps: 60
+	
 	Enter video name (including file type!): Germany.mp4
+	
 	Skip video conversion? ('frames_out folder already generated?)(y/n): y
+	
 	Skip OCR reading + data extraction? ([insert existing file name.txt]/n): Germany.mp4 raw data.txt
 
 ---------------------------------Future updates---------------------------------:
