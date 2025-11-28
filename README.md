@@ -6,7 +6,7 @@ This program generates a speed graph of a Formula Apex car by using Tesseract OC
 
 Since this is v1, users of this program must be careful to type the full names of files and follow the naming conventions below. However, users who who simply input cropped video (most users) will have the naming of files done automatically by the program.
 (i made this at 3 am lol)
-IN THIS DOCUMENT:
+---------------------------------IN THIS DOCUMENT---------------------------------:
 
 - Requirements
 - How it Works
