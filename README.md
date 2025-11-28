@@ -30,10 +30,15 @@ Since this is v1, users of this program must be careful to type the full names o
 - A .txt file of raw data has been given if you want to try graphing it
 
 ---------------------------------HOW IT WORKS---------------------------------:
+
 The program:
+
 	1. Converts video into an image sequence
+	
 	2. Reads the speed measurement on each image 
+
 	3. Saves each measurement to a .txt file
+
 	4. Generates a speed graph.
 
 ---------------------------------HOW TO USE ---------------------------------
@@ -51,6 +56,7 @@ The program:
 **6. If you already have a .txt file with your data, enter the file name. If not, generate data by entering 'n'
 
 ---------------------------------NOTES---------------------------------
+
 * Make sure your image sequence is in a folder named: "frames_out_" + [video name] 
 e.g. frames_out_Germany.mp4 
 
