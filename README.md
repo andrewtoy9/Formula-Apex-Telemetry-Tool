@@ -5,7 +5,9 @@ Welcome to Andrew's Formula Apex Grapher! This is v1 so if you have any question
 This program generates a speed graph of a Formula Apex car by using Tesseract OCR on on-board footage. 
 
 Since this is v1, users of this program must be careful to type the full names of files and follow the naming conventions below. However, users who who simply input cropped video (most users) will have the naming of files done automatically by the program.
+
 (i made this at 3 am lol)
+
 ---------------------------------IN THIS DOCUMENT---------------------------------:
 
 - Requirements
